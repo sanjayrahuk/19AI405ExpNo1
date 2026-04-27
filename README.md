@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: BARANIKUMAR S</h3>
-<h3>Register Number: 212224060038</h3>
+<h3>Name: SANJAY RAHUL A S</h3>
+<h3>Register Number: 212224060234</h3>
 
 
 <h3>AIM:</h3>
